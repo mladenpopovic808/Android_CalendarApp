@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project RMA</string>
+    <string name="warningEmail">Email input must not be empty</string>
+    <string name="warningUsername">Username input must not be empty</string>
+    <string name="submitButton">Submit</string>
+    <string name="warningPassword">Password input must not be empty</string>
+    <string name="emailHint">Enter email</string>
+    <string name="usernameHint">Enter username</string>
+    <string name="passwordHint">Enter password</string>
+    <string name="reEnterPassword">Re-enter password</string>
+    <string name="calendar">Calendar</string>
+    <string name="dailyPlan">Daily Plan</string>
+    <string name="profile">Profile</string>
+    <string name="monday">MON</string>
+    <string name="tuesday">TUE</string>
+    <string name="wednesday">WED</string>
+    <string name="thursday">THU</string>
+    <string name="friday">FRI</string>
+    <string name="saturday">SAT</string>
+    <string name="sunday">SUN</string>
+    <string name="low">LOW</string>
+    <string name="medium">MEDIUM</string>
+    <string name="high">HIGH</string>
+    <string name="showFinishedTasks">Show finished tasks</string>
+    <string name="searchTasks">Search tasks</string>
+    <string name="changePassword">Change password</string>
+    <string name="logout">Log-out</string>
+    <string name="title">Title</string>
+    <string name="time">Time</string>
+    <string name="description">Enter the description</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+</resources>

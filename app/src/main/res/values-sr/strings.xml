@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjekatRMA</string>
+    <string name="warningEmail">Email polje ne sme biti prazno</string>
+    <string name="warningUsername">Username polje ne sme biti prazno</string>
+    <string name="submitButton">Potvrdi</string>
+    <string name="warningPassword">Password polje ne sme biti prazno</string>
+    <string name="emailHint">Unesite mejl</string>
+    <string name="usernameHint">Unesite username</string>
+    <string name="passwordHint">Unesite password</string>
+    <string name="reEnterPassword">Ponovo unesite sifru</string>
+    <string name="calendar">Kalendar</string>
+    <string name="dailyPlan">Plan Dana</string>
+    <string name="profile">Profil korisnika</string>
+    <string name="monday">PON</string>
+    <string name="tuesday">UTO</string>
+    <string name="wednesday">SRE</string>
+    <string name="thursday">CET</string>
+    <string name="friday">PET</string>
+    <string name="saturday">SUB</string>
+    <string name="sunday">NED</string>
+    <string name="low">NISKO</string>
+    <string name="medium">SREDNJE</string>
+    <string name="high">VISOKO</string>
+    <string name="showFinishedTasks">Prikazi zavrsene zadatke</string>
+    <string name="searchTasks">Pretrazi zadatke</string>
+    <string name="changePassword">Promeni lozinku</string>
+    <string name="logout">Izloguj se</string>
+    <string name="title">Naslov</string>
+    <string name="time">Vreme</string>
+    <string name="description">Opis dogadjaja</string>
+    <string name="cancel">Otkazi</string>
+    <string name="add">Kreiraj</string>
+</resources>
